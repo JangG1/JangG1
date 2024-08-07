@@ -12,8 +12,8 @@
  <hr>
  
 ## Connect with Me
-- [Instagram](https://www.instagram.com/d_o_nii/)
-- [Naver] : jangjiwon0417@naver.com
+- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> Instagram : [d_o_nii](https://www.instagram.com/d_o_nii/)
+- <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> Naver : jangjiwon0417@naver.com
 
  <hr>
  
