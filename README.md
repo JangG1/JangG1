@@ -13,7 +13,7 @@
  
 ## Connect with Me
 - [Instagram](https://www.instagram.com/d_o_nii/)
-- [Naver](jangjiwon0417@naver.com)
+- [Naver](http://jangjiwon0417@naver.com)
 
  <hr>
  
