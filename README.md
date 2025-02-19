@@ -25,67 +25,67 @@
  <hr>
  
 <h3>📚 Skill 📚</h3>
+<br>
 <div>
  <h4>🖥 Front</h4>
- <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <h4>🎛 Back</h4>
-  <br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FD5F07?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <h4>📡 Server</h4>
-  <br>
 <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-
 <h4> 🚀 CI/CD 🚀 </h4>
-  <br>
 <div>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 </div>
 
 </div>
-<br>
 <hr>
  
 <h3>📘 Library 📘</h3>
+<br>
 <div>
   <h4>🖥 Front</h4>
- <h4>React</h4>
+ <h5>⚛️ React ⚛️</h5>
  <img src="https://img.shields.io/badge/Zustand-4FC08D?style=for-the-badge&logo=Zustand&logoColor=white">
 <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=Ant Design&logoColor=white">
- <h4>Vue.js</h4>
+ <h5>𝕍 Vue.js 𝕍</h5>
 <img src="https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vuex persistedstate-FD5F07?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/vue cookies-D4AA00?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vue DatePicker-4BB749?style=for-the-badge&logo=Vue.js&logoColor=white">
- <h4>Common</h4>
+ <h5>🌐 Common 🌐</h5>
 <img src="https://img.shields.io/badge/Axios-10A0CC?style=for-the-badge&logo=Axios&logoColor=white">
 <img src="https://img.shields.io/badge/AOS-3399FF?style=for-the-badge&logo=AOS&logoColor=white">
 <img src="https://img.shields.io/badge/Lottie-03C75A?style=for-the-badge&logo=Lottie&logoColor=white">
-<img src="https://img.shields.io/badge/JWT decode-AF38F9?style=for-the-badge&logo=JWT&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JWT decode-AF38F9?style=for-the-badge&logo=JWT&logoColor=white">
+
+ <br>
+ 
   <h4>🎛 Back</h4>
-<br>
 <img src="https://img.shields.io/badge/Kakao Login API-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black">
 <img src="https://img.shields.io/badge/Naver Login API-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
- <img src="https://img.shields.io/badge/Naver News API-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+<img src="https://img.shields.io/badge/Naver News API-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 <img src="https://img.shields.io/badge/OpenWeather API-03C75A?style=for-the-badge&logo=OpenWeather&logoColor=white">
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/Lombok-DC382D?style=for-the-badge&logo=Lombok&logoColor=white">
 <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-AF38F9?style=for-the-badge&logo=JWT&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/SpringDoc-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
- <img src="https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
- <img src="https://img.shields.io/badge/Mockito-FF6A33?style=for-the-badge&logo=Mockito&logoColor=white">
-  <h4>📡 Server</h4>
+<img src="https://img.shields.io/badge/JWT-AF38F9?style=for-the-badge&logo=JWT&logoColor=white">
+<img src="https://img.shields.io/badge/SpringDoc-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
+<img src="https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-FF6A33?style=for-the-badge&logo=Mockito&logoColor=white">
+
 <br>
+
+  <h4>📡 Server</h4>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
  <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=OpenSSL&logoColor=white">
