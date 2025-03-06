@@ -6,7 +6,7 @@
  
 ## About Me
 - 🎓 Complete Full-Stack Web Education.(6 Month)
-- 🌱 Currently learning about CS, Algorithm, Data Structure, Cloud computng.
+- 🌱 Currently learning about CS, Algorithm, Data Structure, Cloud computing(VPC).
 - 🔭 I’m currently working on Individual Project
 
 <h3>Individual Project</h3>
