@@ -14,6 +14,8 @@
 - https://github.com/JangG1/Project03
 <h4>2. Clush ( for the study of React WebSite )</h4>
 - https://github.com/JangG1/Clush
+<h4>3. MindSybc ( Clush Project Advanced, + [AI Chat, AI Image Generator] )</h4>
+- https://github.com/JangG1/MindSync
 
  <hr>
  
