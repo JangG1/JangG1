@@ -30,15 +30,19 @@
 <br>
 <div>
  <h4>🖥 Front</h4>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <h4>🎛 Back</h4>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Java-FD5F07?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot 3.2.2-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Java 17-FD5F07?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL 8-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
   <h4>📡 Server</h4>
 <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
@@ -73,10 +77,12 @@
  <br>
  
   <h4>🎛 Back</h4>
+<img src="https://img.shields.io/badge/Hugging Face API-FFD21E?style=for-the-badge&logo=Hugging Face&logoColor=333">
 <img src="https://img.shields.io/badge/Kakao Login API-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black">
 <img src="https://img.shields.io/badge/Naver Login API-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 <img src="https://img.shields.io/badge/Naver News API-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 <img src="https://img.shields.io/badge/OpenWeather API-03C75A?style=for-the-badge&logo=OpenWeather&logoColor=white">
+<img src="https://img.shields.io/badge/Jsoup-E1B133?style=for-the-badge&logo=Jsoup&logoColor=white">
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/Lombok-DC382D?style=for-the-badge&logo=Lombok&logoColor=white">
 <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
@@ -90,7 +96,8 @@
   <h4>📡 Server</h4>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
- <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=OpenSSL&logoColor=white">
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=OpenSSL&logoColor=white">
+<img src="https://img.shields.io/badge/Certbot-0066FF?style=for-the-badge&logo=Certbot&logoColor=white">
 </div>
 
 <br>
