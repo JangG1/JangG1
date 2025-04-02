@@ -14,7 +14,7 @@
 - https://github.com/JangG1/Project03
 <h4>2. Clush ( for the study of React WebSite ) [ 2025/02/08 ~ 2025/02/19 (12Days) ] </h4>
 - https://github.com/JangG1/Clush
-<h4>3. MindSybc ( Clush Project Advanced, + [AI Chat, AI Image Generator] ) [ 2025/03/06 ~ 2025/03/31 (25Days) ]</h4>
+<h4>3. MindSync ( Clush Project Advanced, + [AI Chat, AI Image Generator] ) [ 2025/03/06 ~ 2025/03/31 (25Days) ]</h4>
 - https://github.com/JangG1/MindSync
 
  <hr>
