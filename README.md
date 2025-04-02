@@ -10,11 +10,11 @@
 - 🔭 I’m currently working on Individual Project
 
 <h3>Individual Project</h3>
-<h4>1. Fastrip ( Airline Ticketing WebSite )</h4>
+<h4>1. Fastrip ( Airline Ticketing WebSite ) [ 2022/10/16 ~ 2023/03/04 (139Days) ]</h4>
 - https://github.com/JangG1/Project03
-<h4>2. Clush ( for the study of React WebSite )</h4>
+<h4>2. Clush ( for the study of React WebSite ) [ 2025/02/08 ~ 2025/02/19 (12Days) ] </h4>
 - https://github.com/JangG1/Clush
-<h4>3. MindSybc ( Clush Project Advanced, + [AI Chat, AI Image Generator] )</h4>
+<h4>3. MindSybc ( Clush Project Advanced, + [AI Chat, AI Image Generator] ) [ 2025/03/06 ~ 2025/03/31 (25Days) ]</h4>
 - https://github.com/JangG1/MindSync
 
  <hr>
